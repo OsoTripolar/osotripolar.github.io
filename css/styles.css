@@ -109,3 +109,7 @@ a{
     color: white;
     text-align: center;
 }
+
+.footer__year{
+    color: rgba(255, 255, 255, 0.35);
+}
